@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify options</description>
+   <name>TC10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51fb0a5b-3a88-42fe-83cd-b673d27970bf</testCaseGuid>
+</TestCaseEntity>

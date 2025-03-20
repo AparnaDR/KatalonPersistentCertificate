@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify healthcare program options</description>
+   <name>TC9</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0eb4c24f-ff84-44aa-96c3-3f6ae30ba4fa</testCaseGuid>
+</TestCaseEntity>

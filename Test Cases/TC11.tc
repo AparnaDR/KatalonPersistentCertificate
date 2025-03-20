@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify date field label and value</description>
+   <name>TC11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03ce9992-aaf4-4bec-af51-127cbea5f246</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>apply for hosipital checkbox verification</description>
+   <name>TC8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb656229-58c5-4943-acb8-d66a8eecff08</testCaseGuid>
+</TestCaseEntity>

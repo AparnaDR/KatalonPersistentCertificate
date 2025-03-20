@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Apply for hospital readmission&#xd;
+Hongkong CURA Healthcare Center</description>
+   <name>TC30</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2887f076-a894-4b08-a5f6-b7582f381296</testCaseGuid>
+</TestCaseEntity>

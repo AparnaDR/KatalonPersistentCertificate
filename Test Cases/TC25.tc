@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Apply for hospital readmission&#xd;
+YES&#xd;
+Tokyo CURA Healthcare Center</description>
+   <name>TC25</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dceaa557-8054-440b-97ae-0feadd4f1d21</testCaseGuid>
+</TestCaseEntity>

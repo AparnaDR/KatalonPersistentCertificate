@@ -1,0 +1,1 @@
+# KatalonPersistentCertificate
